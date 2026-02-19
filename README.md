@@ -5,6 +5,8 @@ They are ready to be used with the [Map Manager](https://github.com/Kronifer/sub
 
 These maps were created using [Kronifier's Patcher](https://github.com/kronifer/subwaybuilder-patcher) with auto-generated demand data. So be aware, quality and playability may vary. I did not get to play-test every map yet.
 
+For maximum realism I recommend also using S-Bahn and Trams from [Valdotoriums Trains](https://github.com/Valdotorium/Valdotoriums_Trains).
+
 ## Currently included 
 
 - BER - Berlin
