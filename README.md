@@ -7,19 +7,25 @@ For maximum realism I recommend also using S-Bahn and Trams from [Valdotoriums T
 
 ## Quality
 
-These maps were created using [Kronifier's Patcher](https://github.com/kronifer/subwaybuilder-patcher) with auto-generated demand data. So be aware, quality and playability may vary.
+These maps were created using [Kronifier's Patcher](https://github.com/kronifer/subwaybuilder-patcher) with auto-generated demand data. So be aware, quality and playability may vary. Below, I rated demand data for each map by density and amount as follows:
+
+✅ good data \
+✨ usable data \
+🛑 little data
+
 
 ## Currently included 
 
-- BER - Berlin (~ 3.8M)
-- CGN - Cologne (~1.6M, also includes Bonn)
-- FRA - Frankfurt a. M. (~756K)
-- MUC - Munich (~ 1.6M)
-- RGB - Ruhrgebiet (~ 5.1M, consisting of multiple cities)
+- ✅ BER - Berlin (~ 3.8M)
+- ✅ CGN - Cologne (~1.6M, also includes Bonn)
+- 🛑 FRA - Frankfurt a. M. (~756K)
+- ✅ MUC - Munich (~ 1.6M)
+- ✨ RGB - Ruhrgebiet (~ 5.1M, consisting of multiple cities)
 
 ## Future updates
 
 Maps on my bucket list (in no particular order):
+- FRA enlargement
 - Leipzig
 - Düsseldorf
 - Stuttgart
