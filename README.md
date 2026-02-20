@@ -1,28 +1,30 @@
 # German Map Pack
 
-I was tired of waiting and decided to just port some maps to be compatible with v1.0. 
-They are ready to be used with the [Map Manager](https://github.com/Kronifer/subwaybuilder-patcher/actions/workflows/build.yml). Simply add the .zips in the manager like with any other compatible map.
-
-These maps were created using [Kronifier's Patcher](https://github.com/kronifer/subwaybuilder-patcher) with auto-generated demand data. So be aware, quality and playability may vary. I did not get to play-test every map yet.
+I was tired of waiting and decided to just port some of my maps to be compatible with v1.0. 
+They are ready to be used with the [Map Manager](https://github.com/Kronifer/subwaybuilder-patcher/actions/workflows/build.yml). Simply add the .zips in the manager like with any other compatible map. See also [this installation guide](https://github.com/kaicardenas0618/Subway-Builder-Map-Directory/wiki/Installation-Guide).
 
 For maximum realism I recommend also using S-Bahn and Trams from [Valdotoriums Trains](https://github.com/Valdotorium/Valdotoriums_Trains).
 
+## Quality
+
+These maps were created using [Kronifier's Patcher](https://github.com/kronifer/subwaybuilder-patcher) with auto-generated demand data. So be aware, quality and playability may vary.
+
 ## Currently included 
 
-- BER - Berlin
-- CGN - Cologne
-- FRA - Frankfurt a.M.
-- MUC - Munich
+- BER - Berlin (~ 3.8M)
+- CGN - Cologne (~1.6M, also includes Bonn)
+- FRA - Frankfurt a. M. (~756K)
+- MUC - Munich (~ 1.6M)
+- RGB - Ruhrgebiet (~ 5.1M, consisting of multiple cities)
 
 ## Future updates
 
 Maps on my bucket list (in no particular order):
-- some portion of the Ruhrgebiet
-- Düsseldorf
 - Leipzig
+- Düsseldorf
 - Stuttgart
 - Hannover
 - Hamburg
 - Nuremberg
 
-... and maybe some more.
+... and maybe some more. 
