@@ -18,7 +18,7 @@ These maps were created using [Kronifier's Patcher](https://github.com/kronifer/
 
 - ✅ BER - Berlin (~ 3.8M)
 - ✅ CGN - Cologne (~1.6M, also includes Bonn)
-- 🛑 FRA - Frankfurt a. M. (~756K)
+- 🛑 FRA - Frankfurt a. M. (~986K)
 - ✅ MUC - Munich (~ 1.6M)
 - ✨ RGB - Ruhrgebiet (~ 5.1M, consisting of multiple cities)
 
