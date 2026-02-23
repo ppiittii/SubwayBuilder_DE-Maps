@@ -3,6 +3,8 @@
 I was tired of waiting and decided to just port some of my maps to be compatible with v1.0. 
 They are ready to be used with the [Map Manager](https://github.com/Kronifer/subwaybuilder-patcher/actions/workflows/build.yml). Simply add the .zips in the manager like with any other compatible map. See also [this installation guide](https://github.com/kaicardenas0618/Subway-Builder-Map-Directory/wiki/Installation-Guide).
 
+**IMPORTANT:** Because of issues with git lfs, please download every map individually. Do NOT download the generated zip from the code button, instead use the "download raw" function after clicking on the map.
+
 For maximum realism I recommend also using S-Bahn and Trams from [Valdotoriums Trains](https://github.com/Valdotorium/Valdotoriums_Trains).
 
 ## Quality
